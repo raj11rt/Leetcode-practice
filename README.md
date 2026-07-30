@@ -19,6 +19,7 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/raj11rt/Leetcode-practice/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/raj11rt/Leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/raj11rt/Leetcode-practice/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -28,11 +29,13 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/raj11rt/Leetcode-practice/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/raj11rt/Leetcode-practice/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/raj11rt/Leetcode-practice/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/raj11rt/Leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/raj11rt/Leetcode-practice/tree/master/0173-binary-search-tree-iterator) |
 ## Sorting
 |  |
 | ------- |
@@ -49,4 +52,16 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/raj11rt/Leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Stack
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/raj11rt/Leetcode-practice/tree/master/0173-binary-search-tree-iterator) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/raj11rt/Leetcode-practice/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/raj11rt/Leetcode-practice/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
