@@ -12,6 +12,7 @@
 | [0010-regular-expression-matching](https://github.com/raj11rt/Leetcode-practice/tree/master/0010-regular-expression-matching) |
 | [0198-house-robber](https://github.com/raj11rt/Leetcode-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0213-house-robber-ii) |
+| [0877-stone-game](https://github.com/raj11rt/Leetcode-practice/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -71,4 +72,13 @@
 | ------- |
 | [0198-house-robber](https://github.com/raj11rt/Leetcode-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0213-house-robber-ii) |
+| [0877-stone-game](https://github.com/raj11rt/Leetcode-practice/tree/master/0877-stone-game) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/raj11rt/Leetcode-practice/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/raj11rt/Leetcode-practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
