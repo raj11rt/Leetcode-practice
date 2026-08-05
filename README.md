@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/raj11rt/Leetcode-practice/tree/master/0010-regular-expression-matching) |
+| [0541-reverse-string-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0541-reverse-string-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/raj11rt/Leetcode-practice/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
