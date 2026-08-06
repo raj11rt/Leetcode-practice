@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/raj11rt/Leetcode-practice/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0541-reverse-string-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
