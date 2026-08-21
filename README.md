@@ -118,4 +118,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/raj11rt/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/raj11rt/Leetcode-practice/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
