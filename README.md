@@ -81,6 +81,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/raj11rt/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/raj11rt/Leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/raj11rt/Leetcode-practice/tree/master/0877-stone-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/raj11rt/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
@@ -129,4 +130,8 @@
 | [0595-big-countries](https://github.com/raj11rt/Leetcode-practice/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/raj11rt/Leetcode-practice/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/raj11rt/Leetcode-practice/tree/master/1683-invalid-tweets) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/raj11rt/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
