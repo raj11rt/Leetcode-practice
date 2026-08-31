@@ -32,6 +32,7 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/raj11rt/Leetcode-practice/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/raj11rt/Leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/raj11rt/Leetcode-practice/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/raj11rt/Leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/raj11rt/Leetcode-practice/tree/master/0200-number-of-islands) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/raj11rt/Leetcode-practice/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/raj11rt/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raj11rt/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/raj11rt/Leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
@@ -135,4 +138,12 @@
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raj11rt/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/raj11rt/Leetcode-practice/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/raj11rt/Leetcode-practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
