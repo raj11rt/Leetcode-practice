@@ -65,6 +65,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/raj11rt/Leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/raj11rt/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/raj11rt/Leetcode-practice/tree/master/0994-rotting-oranges) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/raj11rt/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0994-rotting-oranges](https://github.com/raj11rt/Leetcode-practice/tree/master/0994-rotting-oranges) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raj11rt/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/raj11rt/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/raj11rt/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -149,4 +152,9 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/raj11rt/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/raj11rt/Leetcode-practice/tree/master/0994-rotting-oranges) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/raj11rt/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/raj11rt/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
