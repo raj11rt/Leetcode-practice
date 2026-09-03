@@ -91,11 +91,13 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raj11rt/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raj11rt/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/raj11rt/Leetcode-practice/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Game Theory
 |  |
 | ------- |
