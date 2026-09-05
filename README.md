@@ -34,6 +34,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/raj11rt/Leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/raj11rt/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/raj11rt/Leetcode-practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0210-course-schedule-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/raj11rt/Leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/raj11rt/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/raj11rt/Leetcode-practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0210-course-schedule-ii) |
 | [0994-rotting-oranges](https://github.com/raj11rt/Leetcode-practice/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raj11rt/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
@@ -175,10 +177,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/raj11rt/Leetcode-practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/raj11rt/Leetcode-practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0210-course-schedule-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
