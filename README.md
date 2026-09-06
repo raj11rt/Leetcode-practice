@@ -92,6 +92,7 @@
 | [0213-house-robber-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raj11rt/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/raj11rt/Leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/raj11rt/Leetcode-practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/raj11rt/Leetcode-practice/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/raj11rt/Leetcode-practice/tree/master/0994-rotting-oranges) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raj11rt/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -156,6 +157,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/raj11rt/Leetcode-practice/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raj11rt/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Union-Find
 |  |
