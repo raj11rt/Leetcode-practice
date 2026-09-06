@@ -6,6 +6,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/raj11rt/Leetcode-practice/tree/master/0010-regular-expression-matching) |
 | [0093-restore-ip-addresses](https://github.com/raj11rt/Leetcode-practice/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/raj11rt/Leetcode-practice/tree/master/0115-distinct-subsequences) |
 | [0541-reverse-string-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0541-reverse-string-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/raj11rt/Leetcode-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/raj11rt/Leetcode-practice/tree/master/0010-regular-expression-matching) |
+| [0115-distinct-subsequences](https://github.com/raj11rt/Leetcode-practice/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/raj11rt/Leetcode-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/raj11rt/Leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
