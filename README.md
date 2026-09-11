@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/raj11rt/Leetcode-practice/tree/master/0010-regular-expression-matching) |
+| [3483-unique-3-digit-even-numbers](https://github.com/raj11rt/Leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0994-rotting-oranges](https://github.com/raj11rt/Leetcode-practice/tree/master/0994-rotting-oranges) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raj11rt/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/raj11rt/Leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raj11rt/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3903-smallest-stable-index-i) |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/raj11rt/Leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/raj11rt/Leetcode-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Backtracking
 |  |
@@ -135,6 +138,7 @@
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/raj11rt/Leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raj11rt/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
