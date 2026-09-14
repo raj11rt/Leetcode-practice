@@ -112,6 +112,7 @@
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/raj11rt/Leetcode-practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/raj11rt/Leetcode-practice/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/raj11rt/Leetcode-practice/tree/master/3870-count-commas-in-range) |
@@ -207,4 +208,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/raj11rt/Leetcode-practice/tree/master/0207-course-schedule) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/raj11rt/Leetcode-practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
