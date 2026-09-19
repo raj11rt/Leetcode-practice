@@ -117,6 +117,7 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/raj11rt/Leetcode-practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/raj11rt/Leetcode-practice/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/raj11rt/Leetcode-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/raj11rt/Leetcode-practice/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/raj11rt/Leetcode-practice/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/raj11rt/Leetcode-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Sliding Window
 |  |
 | ------- |
