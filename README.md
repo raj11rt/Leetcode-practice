@@ -50,6 +50,7 @@
 | [0099-recover-binary-search-tree](https://github.com/raj11rt/Leetcode-practice/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/raj11rt/Leetcode-practice/tree/master/0173-binary-search-tree-iterator) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raj11rt/Leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0994-rotting-oranges](https://github.com/raj11rt/Leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/raj11rt/Leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raj11rt/Leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raj11rt/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raj11rt/Leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raj11rt/Leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raj11rt/Leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raj11rt/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -207,6 +210,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raj11rt/Leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/3904-smallest-stable-index-ii) |
 ## Graph Theory
@@ -233,6 +237,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raj11rt/Leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Simulation
 |  |
 | ------- |
