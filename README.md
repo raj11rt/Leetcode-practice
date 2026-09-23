@@ -106,6 +106,7 @@
 | [0877-stone-game](https://github.com/raj11rt/Leetcode-practice/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/raj11rt/Leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1584-min-cost-to-connect-all-points](https://github.com/raj11rt/Leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raj11rt/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raj11rt/Leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/raj11rt/Leetcode-practice/tree/master/0200-number-of-islands) |
+| [1584-min-cost-to-connect-all-points](https://github.com/raj11rt/Leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/raj11rt/Leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0210-course-schedule-ii) |
+| [1584-min-cost-to-connect-all-points](https://github.com/raj11rt/Leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -236,4 +239,20 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/3525-find-x-value-of-array-ii) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/raj11rt/Leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/raj11rt/Leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/raj11rt/Leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/raj11rt/Leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
