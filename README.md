@@ -43,6 +43,7 @@
 | [0200-number-of-islands](https://github.com/raj11rt/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/raj11rt/Leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/raj11rt/Leetcode-practice/tree/master/0547-number-of-provinces) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raj11rt/Leetcode-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -80,6 +81,7 @@
 | [0200-number-of-islands](https://github.com/raj11rt/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/raj11rt/Leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/raj11rt/Leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/raj11rt/Leetcode-practice/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raj11rt/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/raj11rt/Leetcode-practice/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/raj11rt/Leetcode-practice/tree/master/0547-number-of-provinces) |
 | [1584-min-cost-to-connect-all-points](https://github.com/raj11rt/Leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
@@ -220,6 +223,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/raj11rt/Leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/raj11rt/Leetcode-practice/tree/master/0547-number-of-provinces) |
 | [1584-min-cost-to-connect-all-points](https://github.com/raj11rt/Leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
