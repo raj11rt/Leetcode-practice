@@ -9,6 +9,7 @@
 | [0115-distinct-subsequences](https://github.com/raj11rt/Leetcode-practice/tree/master/0115-distinct-subsequences) |
 | [0541-reverse-string-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0541-reverse-string-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/1096-brace-expansion-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/raj11rt/Leetcode-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/raj11rt/Leetcode-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/raj11rt/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/1096-brace-expansion-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -83,11 +85,13 @@
 | [0210-course-schedule-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/raj11rt/Leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/raj11rt/Leetcode-practice/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raj11rt/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/raj11rt/Leetcode-practice/tree/master/0173-binary-search-tree-iterator) |
+| [1096-brace-expansion-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/1096-brace-expansion-ii) |
 ## Design
 |  |
 | ------- |
@@ -150,9 +154,11 @@
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/raj11rt/Leetcode-practice/tree/master/0093-restore-ip-addresses) |
+| [1096-brace-expansion-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/1096-brace-expansion-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raj11rt/Leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
