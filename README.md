@@ -21,6 +21,7 @@
 | [0198-house-robber](https://github.com/raj11rt/Leetcode-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/raj11rt/Leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/raj11rt/Leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/raj11rt/Leetcode-practice/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raj11rt/Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -45,6 +46,7 @@
 | [0207-course-schedule](https://github.com/raj11rt/Leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/raj11rt/Leetcode-practice/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/raj11rt/Leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raj11rt/Leetcode-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -84,6 +86,7 @@
 | [0207-course-schedule](https://github.com/raj11rt/Leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/raj11rt/Leetcode-practice/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/raj11rt/Leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/raj11rt/Leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raj11rt/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -172,6 +175,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/raj11rt/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/raj11rt/Leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Quickselect
 |  |
 | ------- |
@@ -231,6 +235,7 @@
 | [0207-course-schedule](https://github.com/raj11rt/Leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/raj11rt/Leetcode-practice/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/raj11rt/Leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/raj11rt/Leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -275,4 +280,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/raj11rt/Leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/raj11rt/Leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
