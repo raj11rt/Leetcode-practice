@@ -10,6 +10,7 @@
 | [0541-reverse-string-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0541-reverse-string-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/raj11rt/Leetcode-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raj11rt/Leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/raj11rt/Leetcode-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/raj11rt/Leetcode-practice/tree/master/0173-binary-search-tree-iterator) |
 | [1096-brace-expansion-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -285,4 +287,8 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/raj11rt/Leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
