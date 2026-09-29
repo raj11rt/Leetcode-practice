@@ -190,6 +190,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/raj11rt/Leetcode-practice/tree/master/0180-consecutive-numbers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/raj11rt/Leetcode-practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/raj11rt/Leetcode-practice/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/raj11rt/Leetcode-practice/tree/master/0595-big-countries) |
