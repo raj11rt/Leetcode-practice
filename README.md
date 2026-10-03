@@ -6,6 +6,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/raj11rt/Leetcode-practice/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/raj11rt/Leetcode-practice/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/raj11rt/Leetcode-practice/tree/master/0115-distinct-subsequences) |
 | [0541-reverse-string-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0541-reverse-string-ii) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/raj11rt/Leetcode-practice/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/raj11rt/Leetcode-practice/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/raj11rt/Leetcode-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0213-house-robber-ii) |
@@ -100,6 +102,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/raj11rt/Leetcode-practice/tree/master/0173-binary-search-tree-iterator) |
 | [1096-brace-expansion-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raj11rt/Leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -307,6 +310,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raj11rt/Leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
