@@ -11,6 +11,7 @@
 | [0115-distinct-subsequences](https://github.com/raj11rt/Leetcode-practice/tree/master/0115-distinct-subsequences) |
 | [0541-reverse-string-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0541-reverse-string-ii) |
 | [0856-score-of-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raj11rt/Leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raj11rt/Leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -106,6 +107,7 @@
 | [0032-longest-valid-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/raj11rt/Leetcode-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0856-score-of-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raj11rt/Leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/raj11rt/Leetcode-practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raj11rt/Leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -227,6 +229,7 @@
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/raj11rt/Leetcode-practice/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raj11rt/Leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raj11rt/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Union-Find
 |  |
@@ -314,6 +317,7 @@
 | [0022-generate-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raj11rt/Leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raj11rt/Leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raj11rt/Leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
